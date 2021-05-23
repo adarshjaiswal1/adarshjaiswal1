@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me on my LinkedIn: https://www.linkedin.com/in/adarsh-jaiswal-70571b161/
+- 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/adarsh-jaiswal-70571b161/
 
 <!---
 adarshjaiswal1/adarshjaiswal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
